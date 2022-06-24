@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Laptop from '../Laptop/Laptop';
-// import TheoryAnswer from '../TheoryAnswer/TheoryAnswer';
+import TheoryAnswer from '../TheoryAnswer/TheoryAnswer';
 import './LaptopCorner.css';
 
 const LaptopCorner = () => {
@@ -82,9 +82,9 @@ const LaptopCorner = () => {
                     ></Cart>
                 </div>
             </div>
-            {/* <div className='theory-container'>
+            <div className='theory-container'>
                 <TheoryAnswer></TheoryAnswer>
-            </div> */}
+            </div>
         </div>
     );
 };
