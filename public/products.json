@@ -1,0 +1,86 @@
+[
+    {
+        "id": "15s-du1117TU",
+        "name": "HP16 Pentium Silver",
+        "seller": "HP",
+        "price": 423,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1117tu/15s-du1117tu-001-500x500.jpg"
+    },
+    {
+        "id": "15s-du1116TU",
+        "name": "HP17 Pentium Silver",
+        "seller": "HP",
+        "price": 401,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1116tu/15s-du1116tu-01-500x500.jpg"
+    },
+    {
+        "id": "15s-eq1548AU",
+        "name": "HP48  AMD Athlon",
+        "seller": "HP",
+        "price": 462,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/hp-15s/hp-15s-spruce-blue-02-500x500.jpg"
+    },
+    {
+        "id": "Latitude-14-3420",
+        "name": "Dell Core i3 11th",
+        "seller": "Dell",
+        "price": 657,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/latitude-14-3420/latitude-3420-01-500x500.jpg"
+    },
+    {
+        "id": "Vostro-14-3400",
+        "name": "Dell Core Gen",
+        "seller": "Dell",
+        "price": 510,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1117tu/15s-du1117tu-001-500x500.jpg"
+    },
+    {
+        "id": "Inspiron-15-3510",
+        "name": "Dell Intel Celeron",
+        "seller": "Dell",
+        "price": 375,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/inspiron-15-3510/inspiron-15-3510-01-500x500.jpg"
+    },
+    {
+        "id": "MacBook-Air",
+        "name": "Apple MacBook Air",
+        "seller": "Apple",
+        "price": 1370,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/macbook-air-silver/macbook-air-silver-010-500x500.jpg"
+    },
+    {
+        "id": "Macbook-Pro-MVVK2",
+        "name": "Macbook Pro MVVK2",
+        "seller": "Apple",
+        "price": 2640,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro/mvvk2-2019/macbook-pro-mvvk2-2-500x500.jpg"
+    },
+    {
+        "id": "MacBook-Pro-16",
+        "name": "MacBook Pro Space",
+        "seller": "Apple",
+        "price": 3140,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-16-inch/macbook-pro-16-inch-01-500x500.jpg"
+    },
+    {
+        "id": "Aorus-15P-XD",
+        "name": "Gigabyte Aorus",
+        "seller": "Gigabyte",
+        "price": 250,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/aorus-15p-xd/aorus-15p-xd-01-500x500.jpg"
+    },
+    {
+        "id": "AERO-15-OLED",
+        "name": "Gigabyte AERO",
+        "seller": "Gigabyte",
+        "price": 2223,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/aero-15-oled-kc/aero-15-oled-kc-500x500.jpg"
+    },
+    {
+        "id": "G5-GD-Core",
+        "name": "Gigabyte G5",
+        "seller": "Gigabyte",
+        "price": 1123,
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/gigabyte/g5-md/g5-md-01-500x500.jpg"
+    }
+]
