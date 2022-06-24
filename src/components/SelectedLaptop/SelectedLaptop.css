@@ -1,0 +1,29 @@
+/* .cart-display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.cart-display{
+    display: grid;
+    grid-template-columns:  1fr 3fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+
+.cart-display img{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.btn-delete{
+    border: none;
+    background-color: white;
+}
+.btn-delete svg{
+    width: 26px;
+    height: 40px;
+    color: rgba(0, 0, 0, 0.65);
+}

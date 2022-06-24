@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-// import Cart from '../Cart/Cart';
+import Cart from '../Cart/Cart';
 import Laptop from '../Laptop/Laptop';
 // import TheoryAnswer from '../TheoryAnswer/TheoryAnswer';
 import './LaptopCorner.css';
@@ -73,14 +73,14 @@ const LaptopCorner = () => {
                     }
 
                 </div>
-                {/* <div>
+                <div>
                     <Cart
                         cart={cart}
                         deleteToCart={deleteToCart}
                         removeOne={removeOne}
                         chooseOne={chooseOne}
                     ></Cart>
-                </div> */}
+                </div>
             </div>
             {/* <div className='theory-container'>
                 <TheoryAnswer></TheoryAnswer>

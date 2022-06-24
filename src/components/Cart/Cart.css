@@ -1,0 +1,41 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+    text-align: left;
+}
+.cart-heading{
+    color: white;
+    text-align: center;
+    background-color: #1C2B35;
+    border-radius: 7px;
+}
+.cart-container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.cart-button{
+    margin-top: 20px;
+    text-align: center;
+}
+.cart-button button{
+    width: 80%;
+    height: 40px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    border: none;
+}
+.btn-choose-one{
+    background-color: rgb(63, 168, 14);
+}
+.btn-select-again{
+    background-color: red;
+    color: white;
+}
+.btn-choose-one:hover{
+    background-color: rgb(216, 231, 208);
+}
+.btn-select-again:hover{
+    background-color: rgba(22, 20, 20,0.5);
+    
+}
